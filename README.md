@@ -49,15 +49,3 @@ pytest v3_package                  # 7 tests
 
 Slides 22 to 26 show the same steps with real output, so they double as
 a backup if the live demo misbehaves.
-
-## Timing plan for 20 minutes
-
-| Minutes | Slides | Section | If you are running late |
-|---|---|---|---|
-| 0:00–1:00 | 1–2 | Opening, the loop | |
-| 1:00–4:30 | 3–8 | The workshop: VS Code, Linux, Python, venv | slide 7 (Python vs Rust): one sentence |
-| 4:30–8:00 | 9–13 | Git and GitHub, branches, secrets | |
-| 8:00–11:00 | 14–18 | GPUs, no sudo, Docker, cloud, cost | slides 15 and 18: headline only |
-| 11:00–13:00 | 19–21 | From idea to a crisp plan | |
-| 13:00–18:00 | 22–30 | **Live demo**, then refactoring v1 → v2 → v3 | do the demo on 22, then flick through 23–26 |
-| 18:00–20:00 | 31–33 | LLMs, and why to learn properly | |
