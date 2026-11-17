@@ -46,6 +46,3 @@ pytest v3_package                  # 7 tests
    and the exact output for each bug are in `v0_buggy/BUGS.md`.
 2. For bug 3, set `epochs = 3` and add the print line, *or* set a breakpoint on
    line 23 and press F5 ("Debug: v0 buggy draft").
-
-Slides 22 to 26 show the same steps with real output, so they double as
-a backup if the live demo misbehaves.
